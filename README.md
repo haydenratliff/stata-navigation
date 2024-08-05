@@ -13,7 +13,7 @@ Performance:
 - The location identification step achieves a top-1 accuracy of 46.5%, a top-5 accuracy of 63.8%, and a median error of 29 feet on our test set.
 - Using the location identified by ResNet-18, the system produces high-quality navigation instructions, helping the user reach their destination easier.
 
-This project was conducted with [Krish Datta](https://www.linkedin.com/in/krishanudatta/) and [Sara Pasquino](https://www.linkedin.com/in/sarapasquino/), as part of MIT's 6.8300: Advances in Computer Vision course.
+This project was conducted in collaboration with [Krish Datta](https://www.linkedin.com/in/krishanudatta/) and [Sara Pasquino](https://www.linkedin.com/in/sarapasquino/), as part of MIT's 6.8300: Advances in Computer Vision course.
 
 ## Repository Contents
 This repository contains project [code](https://github.com/haydenratliff/stata-navigation/blob/main/code), [model checkpoints](https://github.com/haydenratliff/stata-navigation/blob/main/model_checkpoints), [image embeddings](https://github.com/haydenratliff/stata-navigation/blob/main/embeddings), and our [final report](https://github.com/haydenratliff/stata-navigation/blob/main/report.pdf).
