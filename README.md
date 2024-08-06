@@ -1,4 +1,4 @@
-# Stata Navigation
+# Stata-Navigation
 
 ## Overview
 An image-based system for navigating MIT's Stata Center, a notoriously complex building.
