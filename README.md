@@ -3,7 +3,7 @@
 ## Overview
 An image-based system for navigating MIT's Stata Center, a notoriously complex building.
 
-Methods: 
+Method: 
 1. The user uploads an image from the first floor of the Stata Center and a desired destination.
 2. The system uses ResNet-18 to identify the user's location based on the uploaded image.
 3. The system uses Dijkstra's algorithm to find the shortest path between the user's location and their destination.
