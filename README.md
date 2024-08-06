@@ -9,7 +9,7 @@ Methods:
 3. The system uses Dijkstra's algorithm to find the shortest path between the user's location and their destination.
 4. The system returns navigation instructions to the user.
 
-Performance:
+Results:
 - The location identification step achieves a top-1 accuracy of 46.5%, a top-5 accuracy of 63.8%, and a median error of 29 feet on our test set.
 - Using the location identified by ResNet-18, the system produces high-quality navigation instructions, helping the user reach their destination easier.
 
